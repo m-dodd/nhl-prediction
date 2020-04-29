@@ -1,3 +1,4 @@
 src/*cache
 src/*files
 src/*.html
+.ipynb_checkpoints
