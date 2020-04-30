@@ -26,4 +26,20 @@ As mentioned in the challenges section, now that we had the data we wanted we ha
 
 We now have data in a form appropriate for machine learning.
 
-All preprocessing was performed in Python. Logistic Regression was performed using R as per requirements.
+All preprocessing was performed in Python. Logistic Regression was performed using R as per the project requirements.
+
+## Results
+
+We learned two things during this project that we could use as a baseline to judge our model.
+
+1. The home team wins approximately 54.7% of the time.
+2. The theoretically upper limit for NHL predictions is approximately 62%. This result is from:
+    > Weissbock, J. (2014). *Forecasting Success in the National Hockey League using In-Game Statistics and Textual Data* (Doctoral dissertation, University of Ottawa).
+
+With these two metrics in mind we had set a reasonable target of 57% accuracy for our model recognizing that there is a lot of additional work we could do to improve it in the future.
+
+We achieved an accuracy of 57.4% over the entire 2018-2019 season; predicting 730 / 1271 correct results.
+
+But, unfortunately this was not good enough to quite our day jobs as we would not have been able to beat the bookies:
+
+
