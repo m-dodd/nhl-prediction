@@ -1,5 +1,7 @@
 # NHL Prediction
 
+![More Fun](/imgs/hockey-betting.jpg)
+
 This was a group project and our goal was to create a Logistic Regression model to predict the winner of NHL hockey games. NHL is a strong interest of ours and sports are always a little more interesting if you bet some money on them so those are the motivating factors for the project.
 
 ## Challenges
