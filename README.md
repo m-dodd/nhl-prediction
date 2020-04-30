@@ -43,3 +43,5 @@ We achieved an accuracy of 57.4% over the entire 2018-2019 season; predicting 73
 But, unfortunately this was not good enough to quite our day jobs as we would not have been able to beat the bookies:
 
 ![Tough to beat](/imgs/results.png)
+
+Although, that's not the result we wanted it's not as bad as it looks as we would have lost ~$250 after wagering $12,710 so we are only losing about $0.02 for every $1 wagered and that's better than most games of chance at a Casino so the additional fun factor of having placed wagers on games may justify the expense. :sunglasses:
