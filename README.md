@@ -42,4 +42,4 @@ We achieved an accuracy of 57.4% over the entire 2018-2019 season; predicting 73
 
 But, unfortunately this was not good enough to quite our day jobs as we would not have been able to beat the bookies:
 
-
+![Tough to beat](/imgs/results.png)
