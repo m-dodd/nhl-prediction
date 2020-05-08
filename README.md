@@ -2,7 +2,7 @@
 
 ![More Fun](/imgs/hockey-betting.jpg)
 
-This was a group project and our goal was to create a Logistic Regression model to predict the winner of NHL hockey games. NHL is a strong interest of ours and sports are always a little more interesting if you bet some money on them so those are the motivating factors for the project.
+The goal of this team project was create a Logistic Regression model to predict the winner of NHL hockey games. We recognized this as a challenging project with many obstacles and no data that was readily available to achieve our goal, but hockey is a major interest of our team and we wanted to explore logistic regression within a domain of interest.
 
 ## Challenges
 
